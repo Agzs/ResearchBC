@@ -1,4 +1,3 @@
-### 2020.10.11之前
+arXiv daily, https://agzs.github.io/arxiv-daily/
 
-### 2020.10.16
-
+eprint daily, 
